@@ -41,10 +41,10 @@ _Unbalanced Dataset_
 ---
 
 ## _Groupmates_
-- Rejwan Shafi
-- Homairah Ferdousia
+- [Rejwan Shafi](https://www.linkedin.com/in/rejwan-shafi-905ba32a8/)
+- [Homairah Ferdousia](https://github.com/HOMAIRAH-FERDOUSIA)
 - Istiak Islam 
-- Tasmia Tabassum 
+- [Tasmia Tabassum](https://www.linkedin.com/in/tasmia-tabassum-223057233/) 
 
 ---
 
